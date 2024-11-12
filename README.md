@@ -1,12 +1,6 @@
-<h2 align='center'>awesome-buildinpublic</h2>
+# awesome-buildinpublic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align='center'>
-A curated list of awesome things related to #buildinpublic
-<br><br>
-
-<p align='center'>
-<i>Created by: <a href='https://johnnybuilds.com' target="_blank">JohnnyBuilds</a></i>
-<br><br>
+> A curated list of awesome things related to #buildinpublic created by [JohnnyBuilds](https://github.com/johnnybuildsyo)
 
 ## Resources
 
