@@ -5,11 +5,11 @@
 ## Resource Collections
 
 - [Build In Public Hub](https://buildinpublic.xyz/) - Helpful resources, actionable tips, valuable interviews with successful experts, founders and creators building in public.
-- [Indie SaaS Founders Bluesky Starter Pack](https://bsky.app/starter-pack-short/G4EFzCH) - Growing collection of indie hackers on Bluesky.
 
 ## People
 
 - [PublicBuilders.org](https://publicbuilders.org) - A directory of indie makers, startup founders and ambitious entrepreneurs doing #buildinpublic with short bios and links for each.
+- [Indie SaaS Founders Bluesky Starter Pack](https://bsky.app/starter-pack-short/G4EFzCH) - Growing collection of indie hackers on Bluesky.
 
 ## Newsletters
 
