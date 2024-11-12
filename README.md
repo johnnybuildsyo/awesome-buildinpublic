@@ -11,6 +11,14 @@
 - [PublicBuilders.org](https://publicbuilders.org) - A directory of indie makers, startup founders and ambitious entrepreneurs doing #buildinpublic with short bios and links for each.
 - [Indie SaaS Founders Bluesky Starter Pack](https://bsky.app/starter-pack-short/G4EFzCH) - Growing collection of indie hackers on Bluesky.
 
+## Communities
+
+- [r/buildinpublic](https://www.reddit.com/r/buildinpublic/) - Popular subreddit for building in public
+- [Build In Public Community on Twitter/X](https://x.com/i/communities/1493446837214187523) - Share what you're working on. Get feedback. Help each other move forward. No self-promotion.
+- [#buildinpublic on Bluesky](https://bsky.app/hashtag/buildinpublic) - A growing community of folks on Bluesky who build in public.
+- [Building In Public on Indie Hackers](https://www.indiehackers.com/group/building-in-public) - Indie Hackers building their products in public: IH, Blog, Twitter, Youtube
+- [WIP.co](https://wip.co/) - WIP is a group of makers shipping together, helping each other stay accountable and reach our goals.
+
 ## Newsletters
 
 - [Build In Public Hub Newsletter](https://buildinpublichub.substack.com/) - A newsletter to go from zero to pro in building in public. You'll get insider tips, actionable playbooks from top founders and creators building in public.
@@ -26,14 +34,6 @@
 - [How to Build in Public](https://gabygoldberg.medium.com/the-building-in-public-how-to-guide-219d417f00c1) - Chapter 1 of The Building in Public How-To Guide.
 - [Stacking the Bricks Shorts]([https://shorts.stackingthebricks.com/page/2/](https://shorts.stackingthebricks.com/)) - Short & sweet posts about bootstrapping and running a successful product business
 - [Just Ship It](https://marclou.beehiiv.com/) - Content archive from the Just Ship It newsletter.
-
-## Communities
-
-- [r/buildinpublic](https://www.reddit.com/r/buildinpublic/) - Popular subreddit for building in public
-- [Build In Public Community on Twitter/X](https://x.com/i/communities/1493446837214187523) - Share what you're working on. Get feedback. Help each other move forward. No self-promotion.
-- [#buildinpublic on Bluesky](https://bsky.app/hashtag/buildinpublic) - A growing community of folks on Bluesky who build in public.
-- [Building In Public on Indie Hackers](https://www.indiehackers.com/group/building-in-public) - Indie Hackers building their products in public: IH, Blog, Twitter, Youtube
-- [WIP.co](https://wip.co/) - WIP is a group of makers shipping together, helping each other stay accountable and reach our goals.
 
 ## Podcasts
 
