@@ -18,6 +18,8 @@
 - [#buildinpublic on Bluesky](https://bsky.app/hashtag/buildinpublic) - A growing community of folks on Bluesky who build in public.
 - [Building In Public on Indie Hackers](https://www.indiehackers.com/group/building-in-public) - Indie Hackers building their products in public: IH, Blog, Twitter, Youtube
 - [WIP.co](https://wip.co/) - WIP is a group of makers shipping together, helping each other stay accountable and reach our goals.
+- [r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/) - Subreddit for like minded individuals that are looking to solve issues, network without spamming, talk about growth, challenges and high points and collab on projects together.
+- [r/indiehackers/](https://www.reddit.com/r/indiehackers/) - Subreddit focused on people who bootstrap their way to success by building products.
 
 ## Newsletters
 
