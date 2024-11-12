@@ -8,11 +8,6 @@ A curated list of awesome things related to #buildinpublic
 <i>Created by: <a href='https://johnnybuilds.com' target="_blank">JohnnyBuilds</a></i>
 <br><br>
 
-<a href='https://github.com/birobirobiro/awesome-shadcn-ui/' target="_blank">
-<img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
-</a>
-</p>
-
 ## Resources
 
 - [Build In Public Hub](https://buildinpublic.xyz/) - Helpful resources, actionable tips, valuable interviews with successful experts, founders and creators building in public. 
