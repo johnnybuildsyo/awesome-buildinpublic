@@ -49,6 +49,7 @@
 - [Indie Pages](https://indiepa.ge/) - Showcase and grow your startups. Get an Indie Page to show your unique journey and stand out from the crowd.
 - [ShipFast](https://shipfa.st/) - NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app and make your first $ online fast.
 - [Unicorn Platform](https://unicornplatform.com/) - AI website builder that helps to quickly create websites without design or development skills for SaaS, Apps, Directories, Blogs, Personal pages, and more.
+- [AnotherWrapper](https://anotherwrapper.com/) - AI Starter to generate customizable AI apps. Pick from 10 different templates to launch your startup quickly and start making money
 - [MakerPad](https://makerpad.zapier.com/) - Makerpad teaches anyone how to build their ideas, without writing code.
 - [Marketing Examples](https://marketingexamples.com/) - Website showcasing real-world marketing examples and tips.
 
