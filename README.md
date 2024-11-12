@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to #buildinpublic created by [JohnnyBuilds](https://github.com/johnnybuildsyo)
 
-## Resources
+## Resource Collections
 
 - [Build In Public Hub](https://buildinpublic.xyz/) - Helpful resources, actionable tips, valuable interviews with successful experts, founders and creators building in public. 
 
