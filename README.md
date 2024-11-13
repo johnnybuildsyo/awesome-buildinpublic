@@ -9,6 +9,7 @@
 ## People
 
 - [PublicBuilders.org](https://publicbuilders.org) - A directory of indie makers, startup founders and ambitious entrepreneurs doing #buildinpublic with short bios and links for each.
+- [#BuildInPublic Starter Pack](https://bsky.app/starter-pack/robertlin.bsky.social/3la62odqh4c2v) - Starter pack of creators who build in public on Bluesky.
 - [Indie SaaS Founders Bluesky Starter Pack](https://bsky.app/starter-pack-short/G4EFzCH) - Growing collection of indie hackers on Bluesky.
 
 ## Communities
